@@ -1141,9 +1141,13 @@ Diff...
 &lt;/section&gt;
 </t>
 <t tx="leo.20180110215657.3">#W10-W12 學習週
+
 *如何客製化可攜程式系統
+
 *學習計算機輸入數字寫法
+
 *github帳號創建
+
 *分組先討論如何製作協同計算機
 </t>
 <t tx="leo.20180110215657.4">&lt;section data-markdown&gt;
@@ -1152,11 +1156,16 @@ Diff...
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20180110215657.5">#熟悉及熟練fossil與github指令的不同之處
+<t tx="leo.20180110215657.5">###熟悉及熟練fossil與github指令的不同之處
+
 *git add . 新增
+
 *git commit -m "提交訊息" 提交
+
 *git push 推送
+
 *git config --global user.email "you@example.com"
+
 *git config --global user.name "your name"</t>
 <t tx="leo.20180110215703.1">&lt;section&gt;
     @others
@@ -1169,9 +1178,13 @@ Diff...
 &lt;/section&gt;
 </t>
 <t tx="leo.20180110215703.3">#W16-W18 期末驗收週
+
 * 完成個人計算機並錄製後上傳
+
 * 利用leo完成小組期末報告
+
 * 製作期末投影片並錄影上傳
+
 * 反覆檢討自己是否已經學會了這學期所有課程相關內容了
 </t>
 <t tx="leo.20180110215703.4">&lt;section data-markdown&gt;
@@ -1197,8 +1210,11 @@ Diff...
 &lt;/section&gt;
 </t>
 <t tx="leo.20180110215707.3">#W13-W15 協同製作週
+
 * 創建EtherCalc表單
+
 * 與組員協同製作計算機基本功能
+
 * 驗收計算機成果
 
 
